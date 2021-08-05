@@ -1,2 +1,3 @@
-# sdk-go
+# SDK Go
+
 Vanirio Go SDK
